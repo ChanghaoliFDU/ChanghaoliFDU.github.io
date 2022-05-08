@@ -1,12 +1,11 @@
 <center><font size=5><b>Welcome to My Website!</b></font></center>
 
-[TOC]
 
-### [Maintenance of Servers in Research Group](maintenance.md)
+### [Maintenance of Servers in Research Group](blog/maintenance.md)
 
-### Mesoscopic Dynamics
+### [Mesoscopic Dynamics](blog/mesoscopic.md)
 
-### Learning Julia
+### [Learning Julia](blog/julialearning.md)
 
-### Photo Reactions
+### [Photo Reactions](blog/photoreact.md)
 

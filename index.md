@@ -1,4 +1,4 @@
-<center><font size=5><b>Welcome to My Website!</b></font></center>
+<center><font size=7><b>Welcome to My Website!</b></font></center>
 
 
 ### [Maintenance of Servers in Research Group](blog/maintenance.md)

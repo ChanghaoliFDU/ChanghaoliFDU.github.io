@@ -5,7 +5,7 @@
 
 ## [2. Mesoscopic Dynamics](_posts/2022-05-08-mesoscopic.md)
 
-## [3. Learning Julia](_posts/_posts/2022-05-08-julia_learning.md)
+## [3. Learning Julia](_posts/2022-05-08-julia_learning.md)
 
 ## [4. Photo Reactions](_posts/2022-05-08-photoreact.md)
 

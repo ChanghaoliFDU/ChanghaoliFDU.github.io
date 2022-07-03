@@ -7,6 +7,8 @@ permalink: /
 
 <center><font size=5><b>Welcome to Changhao Li's Personal Website!</b></font></center>
 
+<img src="/Figures/My Photo.JPG" style="zoom: 33%;" />
+
 ## Contents in this website
 
 1. Notes on my projects.

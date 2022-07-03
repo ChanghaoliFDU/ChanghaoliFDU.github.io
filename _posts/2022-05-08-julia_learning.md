@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Learning Julia
 tag: julia
 ---

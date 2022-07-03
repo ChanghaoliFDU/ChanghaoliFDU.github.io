@@ -8,7 +8,7 @@ permalink: /
 <center><font size=5><b>Welcome to Changhao Li's Personal Website!</b></font></center>
 
 
-<img align="right" src="/Figures/My Photo.JPG" style="zoom: 25%;" />
+<img align="right" src="/Figures/My Photo.JPG" style="zoom: 33%;" />
 
 ## Contents in this website
 

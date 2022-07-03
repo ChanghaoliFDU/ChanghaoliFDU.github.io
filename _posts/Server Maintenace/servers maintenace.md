@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Servers maintenance
+layout: posts
+title: Servers Maintenance
 tag: maintenance servers
 nav_order: 2
 ---

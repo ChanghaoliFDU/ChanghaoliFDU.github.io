@@ -5,14 +5,9 @@ nav_order: 1
 permalink: /
 ---
 
-<center><font size=5><b>Welcome to My Website!</b></font></center>
+<center><font size=5><b>Welcome to Changhao Li's Personal Website!</b></font></center>
 
 
-## [1. Maintenance of Servers in Research Group](_posts/2022-05-08-maintenance.md)
-
-## [2. Mesoscopic Dynamics](_posts/2022-05-08-mesoscopic.md)
-
-## [3. Learning Julia](_posts/2022-05-08-julia_learning.md)
-
-## [4. Photo Reactions](_posts/2022-05-08-photoreact.md)
-
+1. Notes on my projects.
+2. Learning Julia.
+3. Maintenance of the servers in our research group.

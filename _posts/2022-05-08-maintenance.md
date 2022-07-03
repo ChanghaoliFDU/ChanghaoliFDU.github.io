@@ -1,6 +1,6 @@
 ---
 layout: post
-title: servers maintenance
+title: Servers maintenance
 tag: maintenance servers
 nav_order: 2
 ---

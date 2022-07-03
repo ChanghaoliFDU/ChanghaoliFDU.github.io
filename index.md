@@ -17,6 +17,7 @@ permalink: /
 
 ## How to contact me
 
-- Address: Department of Macromolecular Science,
-           Fudan University, Shanghai 200438, CHINA
-- E-mail: changhaoli95@163.com
+- <b>Address</b>: 
+  Department of Macromolecular Science,
+  Fudan University, Shanghai 200438, CHINA
+- <b>E-mail</b>: changhaoli95@163.com

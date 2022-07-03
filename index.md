@@ -8,9 +8,11 @@ permalink: /
 <center><font size=5><b>Welcome to Changhao Li's Personal Website!</b></font></center>
 
 
-<img align="right" src="/Figures/My Photo.JPG" style="zoom: 33%;" />
 
 ## Contents in this website
+
+
+<img align="right" src="/Figures/My Photo.JPG" style="zoom: 33%;" />
 
 1. Notes on my projects.
 2. Learning Julia.

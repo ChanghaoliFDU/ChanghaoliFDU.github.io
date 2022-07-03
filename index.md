@@ -1,3 +1,10 @@
+---
+layout: default
+title: Home
+nav_order: 1
+permalink: /
+---
+
 <center><font size=5><b>Welcome to My Website!</b></font></center>
 
 

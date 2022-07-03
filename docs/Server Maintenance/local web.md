@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Local Web
-parent: Server Maintenance
+parent: Servers Maintenance
 nav_order: 1
 ---
 

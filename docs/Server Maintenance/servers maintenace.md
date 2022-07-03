@@ -14,20 +14,20 @@ This is a guide mostly based on Ubuntu20.04.
 
 ### Normal Users
 
-'''shell
+```shell
 sudo adduser peter     # Add a user with the name peter
 sudo deluser peter     # Delete the user with the name peter
 sudo deluser --remove-home peter   # Delete the user peter and remove '/home/peter' directory
-'''
+```
 
 ### Super Users(Administrators)
 
 After adding a user, one can make it a super user. 
 
-'''shell
+```shell
 sudo vi /etc/sudoers
-'''
-And then add the following sentence under 'root ALL=(ALL:ALL) ALL' in the sudoers file.
-'''shell
+```
+And then add the following sentence under <root ALL=(ALL:ALL) ALL> in the sudoers file.
+```shell
 peter ALL=(ALL:ALL) ALL
-'''
+```

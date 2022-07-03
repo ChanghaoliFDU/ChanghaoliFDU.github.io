@@ -5,7 +5,7 @@ nav_order: 1
 permalink: /
 ---
 
-<center><font size=8><b>Welcome to Changhao Li's Personal Website!</b></font></center>
+<center><font size=6><b>Welcome to Changhao Li's Personal Website!</b></font></center>
 
 ---
 
@@ -16,5 +16,7 @@ permalink: /
 3. Maintenance of the servers in our research group.
 
 ## How to contact me
- 
- E-mail: changhaoli95@163.com
+
+- Address: Department of Macromolecular Science,
+           Fudan University, Shanghai 200438, CHINA
+- E-mail: changhaoli95@163.com

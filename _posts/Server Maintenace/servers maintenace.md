@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Servers Maintenance
 tag: maintenance servers
 nav_order: 2

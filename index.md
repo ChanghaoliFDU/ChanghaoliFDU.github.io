@@ -11,9 +11,11 @@ permalink: /
 
 ## Contents in this website <img align="right" src="/Figures/My Photo.JPG" style="zoom: 25%;" />
 
-1. Notes on my projects.
-2. Learning Julia.
-3. [Maintenance of the servers in our research group](/docs/Server Maintenance/servers maintenance.md).
+- [Notes on my projects](/docs/Notes On Projects/notes_index.md).
+
+- [Learning Julia].(/docs/Learning Julia/julia learning.md)
+
+- [Maintenance of the servers in our research group](/docs/Server Maintenance/servers maintenance.md).
 
 ## How to contact me
 

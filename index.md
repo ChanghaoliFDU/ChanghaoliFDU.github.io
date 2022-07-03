@@ -5,9 +5,9 @@ nav_order: 1
 permalink: /
 ---
 
-<center><font size=5><b>Welcome to Changhao Li's Personal Website!</b></font></center>
+<center><font size=8><b>Welcome to Changhao Li's Personal Website!</b></font></center>
 
-
+---
 
 ## Contents in this website <img align="right" src="/Figures/My Photo.JPG" style="zoom: 33%;" />
 

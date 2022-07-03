@@ -12,7 +12,7 @@ This is a guide mostly based on Ubuntu20.04.
 
 ## 1. Create Users
 
-This is only a tutorial for <font color=#FF3333>one server</font>. 
+This is only a tutorial for <font color=MediumVioletRed>one server</font>. 
 The guide for adding users in a computer group see here.
 
 ### Normal Users

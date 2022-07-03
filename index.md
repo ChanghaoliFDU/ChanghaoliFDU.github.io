@@ -13,7 +13,7 @@ permalink: /
 
 - [Notes on my projects](/docs/Notes On Projects/notes_index.md).
 
-- [Learning Julia].(/docs/Learning Julia/julia learning.md)
+- [Learning Julia](/docs/Learning Julia/julia learning.md).
 
 - [Maintenance of the servers in our research group](/docs/Server Maintenance/servers maintenance.md).
 

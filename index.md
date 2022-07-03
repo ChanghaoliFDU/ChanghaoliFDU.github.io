@@ -9,10 +9,7 @@ permalink: /
 
 
 
-## Contents in this website
-
-
-<img align="right" src="/Figures/My Photo.JPG" style="zoom: 33%;" />
+## Contents in this website <img align="right" src="/Figures/My Photo.JPG" style="zoom: 33%;" />
 
 1. Notes on my projects.
 2. Learning Julia.

@@ -7,14 +7,25 @@ nav_order: 4
 ---
 
 # Maintenance of Servers in Reserach Group
+{: .no_toc }
+This is a guide mostly based on Ubuntu20.0.
 
-This is a guide mostly based on Ubuntu20.04.
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+---
 
 ## 1. Create Users
 
 This is only a tutorial for <font color=MediumVioletRed>one server</font>. 
-The guide for adding users in a computer group see here.
-
+The guide for adding users in a computer group is [here]().
+ 
 ### Normal Users
 
 ```shell

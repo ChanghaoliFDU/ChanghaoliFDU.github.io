@@ -13,7 +13,7 @@ permalink: /
 
 1. Notes on my projects.
 2. Learning Julia.
-3. Maintenance of the servers in our research group.
+3. [Maintenance of the servers in our research group](/docs/Server Maintenance/servers maintenance.md).
 
 ## How to contact me
 

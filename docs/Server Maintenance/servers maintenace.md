@@ -38,13 +38,18 @@ peter ALL=(ALL:ALL) ALL
 
  - After the software is installed, one can edit the `.bashrc` file to export the path.
 ```shell
-vim ~/.bashrc
+sudo vim ~/.bashrc
 ```
 and add the following sentence to the end of the `.bahsrc` file.
 ```shell
 export PATH=$PATH:/***/julia-1.6.1-linux-x86_64/julia-1.6.1/bin
 # This is an example for julia.
 # *** is the Absolute Path of the 'bin' directory.
+```
+Save changes by pressing `ESC`,`:wq!` in turns.
+And source the `.bashrc` file.
+```shell
+source ~/.bashrc 
 ```
  - Change the color scheme of the terminal 
  

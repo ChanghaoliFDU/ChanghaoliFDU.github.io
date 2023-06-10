@@ -5,8 +5,11 @@ parent: Reading Notes
 nav_order: 1
 ---
 
-# 1: [Particle States in a Central Potential](Chapter 1.pdf)
+# Chapter 1: 
+  [Particle States in a Central Potential](Chapter 1 Particle States in a Central Potential.pdf)
 
-# 2: [General Principles of Quantum Mechanics](Chapter 2.pdf)
+# Chapter 2: 
+  [General Principles of Quantum Mechanics](Chapter 2 General Principles of Quantum Mechanics.pdf)
 
-# 3: [Spin et cetea](Chapter 3.pdf)
+# Chapter 3: 
+  [Spin et cetea](Chapter 3 Spin et cetea.pdf)

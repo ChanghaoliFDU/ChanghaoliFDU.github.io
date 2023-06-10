@@ -1,10 +1,17 @@
+---
+layout: default
+title: Chapter 1
+parent: Servers Maintenance
+nav_order: 2
+---
 # Chapter 1: Particle States in a Central Potential
 
 ##  Schrödinger Equation for a Central Potential
 
-Any of one component of angular momentum $\mathbf{L}=\mathbf{x}\times\mathbf{p}\equiv-i\hbar\mathbf{x}\times\nabla$ commutes with the Hamiltonian $\mathbf{H}$. $\mathbf{L}^2$ also commutes with $\mathbf{H}$.
+Any of one component of angular momentum $$\mathbf{L}=\mathbf{x}\times\mathbf{p}\equiv-i\hbar\mathbf{x}\times\nabla$$ commutes with the Hamiltonian $$\mathbf{H}$$. $$\mathbf{L}^2$$ also commutes with $$\mathbf{H}$$.
 
 In polar coordinates,
+
 $$
 \begin{eqnarray}
 \nonumber L_1&=&i\hbar\left(\sin\phi\frac{\partial}{\partial\theta}+\cot\theta\cos\phi\frac{\partial}{\partial\phi}\right)\\
@@ -12,58 +19,77 @@ $$
 L_3&=&-i\hbar\frac{\partial}{\partial\phi}
 \end{eqnarray}
 $$
+
 What does this have to do with the Schrödinger equation? 
+
 $$
 \mathbf{L}^2=-\hbar^2\left[r^2\nabla^2-\frac{\partial}{\partial r}r^2\frac{\partial}{\partial r} \right]
 $$
+
 or in other words: 
+
 $$
 \nabla^2=\frac{1}{r^2}\frac{\partial}{\partial r}r^2\frac{\partial}{\partial r}-\frac{\mathbf{L}^2}{\hbar^2r^2}
 $$
 
 Then Schrödinger equation takes the form:
+
 $$
 E\psi(\mathbf{x})=-\frac{\hbar^2}{2\mu r^2}\frac{\partial}{\partial r}\left(r^2\frac{\partial\psi(\mathbf{x})}{\partial r}\right)+\frac{1}{2\mu r^2}\mathbf{L}^2\psi(\mathbf{x})+V(r)\psi(\mathbf x)
 $$
-As long as $V(r)$ is not extremely singular at $r=0$, the wave function can be expressed as a power series in the Cartesian components.
+
+As long as $V(r)$ is not extremely singular at $$r=0$$, the wave function can be expressed as a power series in the Cartesian components.
+
 $$
 \psi(\mathbf x)\to r^lY(\theta,\phi)
 $$
+
 then,
+
 $$
 \mathbf{L}^2\psi(\mathbf x)=\hbar^2\frac{\partial}{\partial r}\left(r^2\frac{\partial\psi(\mathbf x)}{\partial r}\right)+2\mu r^2\left[E-V(r)\right]\psi(\mathbf x)
 $$
 
 
-In the limit $r\to 0$, as long as the potential is less singular than $1/r^2$, the second term on the right side vanishes as $r \to 0$ more rapidly than $\psi$, so $\psi$ satisfy the eigenvalue equation
+In the limit $$r\to 0$$, as long as the potential is less singular than $$1/r^2$$, the second term on the right side vanishes as $$r \to 0$$ more rapidly than $$\psi$$, so $$\psi$$ satisfy the eigenvalue equation
+
 $$
 \mathbf{L}^2\psi(\mathbf x)\to\hbar^2l(l+1)\psi
 $$
-Hence, the eigenvalue of $\hat{H}$ can only be $\hbar^2l(l+1)$.
 
-Since $\mathbf{L}^2$ acts only on angles,such 
+Hence, the eigenvalue of $$\hat{H}$$ can only be $$\hbar^2l(l+1)$$.
+
+Since $$\mathbf{L}^2$$ acts only on angles,such 
+
 $$
 \psi(\mathbf x)=R(r)Y(\theta,\phi)
 $$
-where $R(r)$ is a function of $r$ satisfying
+
+where $$R(r)$$ is a function of $$r$$ satisfying
+
 $$
 R(r) \propto r^l\quad \text{for}\quad r\to 0
 $$
-and $Y(\theta,\phi)$ is a function of $\theta$ and $\phi$ satisfying
+
+and $$Y(\theta,\phi)$$ is a function of $$\theta$$ and $$\phi$$ satisfying
+
 $$
 \mathbf L^2Y=\hbar^2l(l+1)Y
 $$
-If we also require $\psi$ to be an eigenfunction of $L_3$ with eigenvalue denoted $\hbar m$ 
 
-then 
+If we also require $$\psi$$ to be an eigenfunction of $$L_3$$ with eigenvalue denoted $$\hbar m$$, then 
+
 $$
 L_3Y=\hbar mY
 $$
-Equation 1.3 shows that $Y(\theta,\phi)$ must then have a $\phi$-dependence
+
+Equation 1.3 shows that $$Y(\theta,\phi)$$ must then have a $$\phi$$-dependence
+
 $$
 Y(\theta,\phi)=e^{im\phi}\times\text{function of}\quad\theta
 $$
-The condition that $Y(\theta,\phi)$ must have the same value at $\phi=0$ and $\phi=2\pi$ requires then $m$ be an integer.
+
+The condition that $$Y(\theta,\phi)$$ must have the same value at $$\phi=0$$ and $$\phi=2\pi$$ requires then $$m$$ be an integer.
 
 ##  Spherical Harmonics
 

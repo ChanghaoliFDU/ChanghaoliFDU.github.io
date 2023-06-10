@@ -18,7 +18,9 @@ permalink: /
 ## Research Interest
 
 Nonequilibrium Thermodynamics, Statistical Physics,
+
 Life Physics, Life-related Reaction-Diffusion Equations,
+
 Soft Matter Physics
 
 ## How To Contact Me

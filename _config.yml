@@ -5,7 +5,7 @@ title: Changhao Li's Site
 
 logo: "Figures/site_logo.png"
 
-math: katex
+math: mathjax
 
 back_to_top: true
 back_to_top_text: "Back to top"

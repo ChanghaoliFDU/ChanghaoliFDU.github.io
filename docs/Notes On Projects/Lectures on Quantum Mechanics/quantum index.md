@@ -6,6 +6,8 @@ nav_order: 1
 ---
 # Lectures on Quantum Mechanics
 
+---
+
 by Steven Weinberg
 
 ## Chapter 1: 

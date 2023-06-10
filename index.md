@@ -11,9 +11,9 @@ permalink: /
 
 ## Education <img align="right" src="/Figures/My Photo.JPG" style="zoom: 25%;" />
 
-- **2017.9-2023.6** Ph.D.   Polymer Chemistry and Physics      Fudan University 
+- **2017.9-2023.6** Ph.D.,   Polymer Chemistry and Physics,      Fudan University 
 
-- **2013.9-2017.6** B.E.    Polymer Materials and Engineering  Fudan University
+- **2013.9-2017.6** B.E.,    Polymer Materials and Engineering,  Fudan University
 
 ## Research Interest
 

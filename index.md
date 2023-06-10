@@ -10,6 +10,7 @@ permalink: /
 ---
 
 ## Education <img align="right" src="/Figures/My Photo.JPG" style="zoom: 20%;" />
+
 $$
 \begin{array}
 {cll}
@@ -20,6 +21,7 @@ $$
 \hline
 \end{array}
 $$
+
 <!--
 - **2017.9-2023.6** Ph.D.,   Polymer Chemistry and Physics,      Fudan University 
 

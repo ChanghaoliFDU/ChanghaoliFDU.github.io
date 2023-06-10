@@ -1,11 +1,15 @@
 ---
 layout: default
-title: Notes on Projects
-nav_order: 2
+title: Reading Notes
+nav_order: 3
 ---
 
-# List of Notes On The Projects
+# List of Reading Notes
 
-## Binary Immiscible Systems Coupled With Thermal/Light Reactions
+## *Lectures on Quantum Mechanics*, 2nd Edition
+    
+    by Steven Weinburg
 
-## Scale Dependence of The Meso-scopic State Variables
+## *Mathematical Biology*, 3rd Edition
+
+    by J. D. Murray

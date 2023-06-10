@@ -4,6 +4,7 @@ title: Publications
 tag: publications
 nav_order: 2
 ---
+# Publication List
 
 ## 2023
 - Changhao Li, Jianfeng Li*, Hongdong Zhang, Yuliang Yang and Zhen-Gang Wang. Scale Dependence of State Variable and its

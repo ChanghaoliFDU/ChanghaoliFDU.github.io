@@ -67,8 +67,6 @@ The condition that $Y(\theta,\phi)$ must have the same value at $\phi=0$ and $\p
 
 ##  Spherical Harmonics
 
-
-
  The angular part of the wave function will therefore be labeled with $l$ and $m$, as $Y_l^m(\theta,\phi)$. 
 
  Use Eq.3 and act on $r^lY_l^m$, and according to Eq.10, 

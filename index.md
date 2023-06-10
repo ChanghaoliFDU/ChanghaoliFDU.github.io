@@ -37,7 +37,7 @@ $$
 
 - Soft Matter Physics
 
-## How To Contact Me
+## Contact Information
 
 - <b>Address</b>: 
 

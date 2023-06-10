@@ -13,11 +13,11 @@ Any of one component of angular momentum $$\mathbf{L}=\mathbf{x}\times\mathbf{p}
 In polar coordinates,
 
 $$
-\begin{eqnarray}
+\begin{array}
 \nonumber L_1&=&i\hbar\left(\sin\phi\frac{\partial}{\partial\theta}+\cot\theta\cos\phi\frac{\partial}{\partial\phi}\right)\\
 \nonumber L_2&=&i\hbar\left(-\cos\phi\frac{\partial}{\partial\theta}+\cot\theta\sin\phi\frac{\partial}{\partial\phi}\right)\\
-L_3&=&-i\hbar\frac{\partial}{\partial\phi}
-\end{eqnarray}
+L_3 &=& -i\hbar\frac{\partial}{\partial\phi}
+\end{array}
 $$
 
 What does this have to do with the Schrödinger equation? 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Reading Notes
+has_children: true
 nav_order: 3
 ---
 

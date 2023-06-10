@@ -5,6 +5,8 @@ tag: publications
 nav_order: 2
 ---
 ## 2022
-- L
-- L
-- L
+- Changhao Li, Jianfeng Li*, Hongdong Zhang and Yuliang Yang*. A Systematic Study On Immiscible Binary Systems Undergoing Thermal/Photo Reversible Chemical Reactions.  *Phys. Chem. Chem. Phys.* 2023, **25**, 1642-1648; https://doi.org/10.1039/D2CP04526E
+
+- Changhao Li, Jianfeng Li* and Yuliang Yang*. A Feynman Path Integral-like Method for Deriving Reaction–Diffusion Equations. *Polymers* 2022, **14**(23), 5156; https://doi.org/10.3390/polym14235156
+
+- Changhao Li, Jianfeng Li* and Yuliang Yang*. First-Principle Derivation of Single-Photon Entropy and Maxwell–Jüttner Velocity Distribution. *Entropy* 2022, **24**(11), 1609; https://doi.org/10.3390/e24111609

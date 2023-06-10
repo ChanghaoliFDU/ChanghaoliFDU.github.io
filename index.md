@@ -9,12 +9,22 @@ permalink: /
 
 ---
 
-## Education <img align="right" src="/Figures/My Photo.JPG" style="zoom: 25%;" />
-
+## Education <img align="right" src="/Figures/My Photo.JPG" style="zoom: 20%;" />
+$$
+\begin{array}
+{cll}
+\hline
+	**2017.9-2023.6** & \text{Ph.D.}	& \text{Polymer Chemistry and Physics} & \text{Fudan University} \\
+  &&&\\
+	**2013.9-2017.6** & \text{B.E.} &  \text{Polymer Materials and Engineering} &  \text{Fudan University} \\
+\hline
+\end{array}
+$$
+<!--
 - **2017.9-2023.6** Ph.D.,   Polymer Chemistry and Physics,      Fudan University 
 
 - **2013.9-2017.6** B.E.,    Polymer Materials and Engineering,  Fudan University
-
+-->
 ## Research Interest
 
 - Nonequilibrium Thermodynamics, Statistical Physics,

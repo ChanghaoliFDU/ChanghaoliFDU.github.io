@@ -13,11 +13,11 @@ Any of one component of angular momentum $$\mathbf{L}=\mathbf{x}\times\mathbf{p}
 In polar coordinates,
 
 $$
-\begin{array}
+\begin{eqnarray}
 \nonumber L_1&=&i\hbar\left(\sin\phi\frac{\partial}{\partial\theta}+\cot\theta\cos\phi\frac{\partial}{\partial\phi}\right)\\
 \nonumber L_2&=&i\hbar\left(-\cos\phi\frac{\partial}{\partial\theta}+\cot\theta\sin\phi\frac{\partial}{\partial\phi}\right)\\
 L_3 &=& -i\hbar\frac{\partial}{\partial\phi}
-\end{array}
+\end{eqnarray}
 $$
 
 What does this have to do with the Schrödinger equation? 
@@ -93,23 +93,29 @@ The condition that $$Y(\theta,\phi)$$ must have the same value at $$\phi=0$$ and
 
 ##  Spherical Harmonics
 
- The angular part of the wave function will therefore be labeled with $l$ and $m$, as $Y_l^m(\theta,\phi)$. 
+ The angular part of the wave function will therefore be labeled with $$l$$ and $$m$$, as $$Y_l^m(\theta,\phi)$$. 
 
- Use Eq.3 and act on $r^lY_l^m$, and according to Eq.10, 
+ Use Eq.3 and act on $$r^lY_l^m$$, and according to Eq.10, 
+ 
 $$
 \nabla^2\left(r^lY_l^m\right)=0
 $$
-Finally, recall that $r^lY_l^m(\theta,\phi)$ is a homogeneous polynomial of order $l$ in the Cartesian components of the coordinate vector $\mathbf x$. Equivalently, it can be written as a homogeneous polynomial of order $l$ in
+
+Finally, recall that $$r^lY_l^m(\theta,\phi)$$ is a homogeneous polynomial of order $$l$$ in the Cartesian components of the coordinate vector $$\mathbf x$$. Equivalently, it can be written as a homogeneous polynomial of order $$l$$ in
+
 $$
 x_{\pm}\equiv x_1\pm ix_2=r\sin\theta e^{\pm i\phi}\quad\text{and}\quad x_3=r\cos\theta
 $$
-Thus Eq.11 tells us that $Y_l^m$ must contain numbers $\nu_{\pm}$ of factors of $x_{\pm}$ such that 
+
+Thus Eq.11 tells us that $$Y_l^m$$ must contain numbers $$\nu_{\pm}$$ of factors of $$x_{\pm}$$ such that 
+
 $$
 m=\nu_+-\nu_-
 $$
-Since the total number of factors of $x_+$, $x_-$ and $x_3$ is $l$, the index $m$ is a positive or negative integer, with a maximum value $l$ and a minimum value $-l$. 
 
-Whether $Y^m_l$ is uniquely determined by the values of $l$ and $m$ ?
+Since the total number of factors of $$x_+$$, $$x_-$$ and $$x_3$$ is $$l$$, the index $$m$$ is a positive or negative integer, with a maximum value $$l$$ and a minimum value $$-l$$. 
+
+Whether $$Y^m_l$$ is uniquely determined by the values of $$l$$ and $$m$$?
 
 For a given $l$ , $m$ takes $2l+1$ values. And we have
 $$

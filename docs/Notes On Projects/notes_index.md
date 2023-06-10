@@ -9,7 +9,7 @@ nav_order: 3
 
 ## *Lectures on Quantum Mechanics*, 2nd Edition
     
-   by Steven Weinburg
+   by Steven Weinberg
 
 ## *Mathematical Biology*, 3rd Edition
 

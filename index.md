@@ -33,7 +33,7 @@ $$
 
 - Nonequilibrium Thermodynamics, Statistical Physics,
 
-- Life Physics, Life-related Reaction-Diffusion Equations,
+- Life Physics, Life-Related Reaction-Diffusion Equations,
 
 - Soft Matter Physics
 

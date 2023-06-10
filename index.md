@@ -14,9 +14,9 @@ $$
 \begin{array}
 {cll}
 \hline
-	**2017.9-2023.6** & \text{Ph.D.}	& \text{Polymer Chemistry and Physics} & \text{Fudan University} \\
+	\textbf{2017.9-2023.6} & \text{Ph.D.}	& \text{Polymer Chemistry and Physics} & \text{Fudan University} \\
   &&&\\
-	**2013.9-2017.6** & \text{B.E.} &  \text{Polymer Materials and Engineering} &  \text{Fudan University} \\
+	\textbf{2013.9-2017.6} & \text{B.E.} &  \text{Polymer Materials and Engineering} &  \text{Fudan University} \\
 \hline
 \end{array}
 $$

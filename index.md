@@ -9,15 +9,18 @@ permalink: /
 
 ---
 
-## Contents in this website <img align="right" src="/Figures/My Photo.JPG" style="zoom: 25%;" />
+## Education <img align="right" src="/Figures/My Photo.JPG" style="zoom: 25%;" />
 
-- [Notes on my projects](/docs/Notes On Projects/notes_index.md).
+- **2017.9-2023.6** Ph.D.   Polymer Chemistry and Physics      Fudan University 
 
-- [Learning Julia](/docs/Learning Julia/julia learning.md).
+- **2013.9-2017.6** B.E.    Polymer Materials and Engineering  Fudan University
 
-- [Maintenance of the servers in our research group](/docs/Server Maintenance/servers maintenance.md).
+## Research Interest
 
-## How to contact me
+Life Physics, Nonequilibrium Thermodynamics, Statistical Physics,
+Life-related Reaction-Diffusion Equations, Soft Matter Physics
+
+## How To Contact Me
 
 - <b>Address</b>: 
 
@@ -25,4 +28,9 @@ permalink: /
   
   Fudan University, Shanghai 200438, CHINA
   
-- <b>E-mail</b>: changhao.li.cn@gmail.com
+- <b>E-mail</b>: 
+
+  changhao.li.cn@gmail.com
+  
+  changhaoli95@163.com
+                  

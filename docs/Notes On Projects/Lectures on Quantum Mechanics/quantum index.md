@@ -17,4 +17,4 @@ by Steven Weinberg
   [General Principles of Quantum Mechanics.pdf](Chapter 2 General Principles of Quantum Mechanics.pdf)
 
 ## Chapter 3: 
-  [Spin et cetea.pdf](Chapter 3 Spin et cetea.pdf)
+  [Spin et cetera.pdf](Chapter 3 Spin et cetea.pdf)

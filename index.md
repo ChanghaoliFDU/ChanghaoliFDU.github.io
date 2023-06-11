@@ -9,8 +9,15 @@ permalink: /
 
 ---
 
-## Education <img align="right" src="/Figures/My Photo.JPG" style="zoom: 20%;" />
+## Research Interest <img align="right" src="/Figures/My Photo.JPG" style="zoom: 20%;" />
 
+- Nonequilibrium Thermodynamics, Statistical Physics,
+
+- Life Physics, Life-Related Reaction-Diffusion Equations,
+
+- Soft Matter Physics
+
+## Education 
 $$
 \begin{array}
 {cll}
@@ -27,13 +34,6 @@ $$
 
 - **2013.9-2017.6** B.E.,    Polymer Materials and Engineering,  Fudan University
 -->
-## Research Interest
-
-- Nonequilibrium Thermodynamics, Statistical Physics,
-
-- Life Physics, Life-Related Reaction-Diffusion Equations,
-
-- Soft Matter Physics
 
 ## Contact Information
 

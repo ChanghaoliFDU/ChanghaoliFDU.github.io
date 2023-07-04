@@ -45,6 +45,13 @@ And then add the following sentence under `root ALL=(ALL:ALL) ALL` in the sudoer
 ```shell
 peter ALL=(ALL:ALL) ALL
 ```
+### Bug Fix
+
+If other users can visit your personal files, change the permission of main directory.
+```shell
+  chmod -R o-rwx ~
+```
+
 
 ## 2. Install Softwares
 

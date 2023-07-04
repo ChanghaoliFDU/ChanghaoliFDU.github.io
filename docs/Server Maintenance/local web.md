@@ -18,31 +18,35 @@ nav_order: 1
       如上图情况，`eno1`网口连接外网，`enp4s0f1`网口连接交换机，并作为网络输入口。
       
    2. 修改网络配置文件
-```shell
-cd /etc/netplan
-# 接下来查看.yaml文件名，并修改该文件
-sudo vim 01-network-manager-all.yaml
-# Let NetworkManager manage all devices on this system
-network:
-  version: 2
-  renderer: NetworkManager
-  ethernets:  # 注意缩进是必需的
-          enp4s0f1:  # 此处为交换机连接网口
-            dhcp4: false  # 关闭自动获取ip
-            addresses: [192.168.1.1/24]  # 设置本机ip地址
-            nameservers:
-                    addresses: [202.120.224.26] # 复旦通用DNS
-                       
-                    
-# 修改完成后：               
-sudo netplan apply
-```
-- 
-  子节点网络设置
+  ```shell
+     cd /etc/netplan
+  ```
+  接下来查看.yaml文件名，并修改该文件
+  ```shell
+  sudo vim 01-network-manager-all.yaml
+  
+  # Let NetworkManager manage all devices on this system
+  network:
+     version: 2
+     renderer: NetworkManager
+     ethernets:  # 注意缩进是必需的
+             enp4s0f1:  # 此处为交换机连接网口
+               dhcp4: false  # 关闭自动获取ip
+               addresses: [192.168.1.1/24]  # 设置本机ip地址
+               nameservers:
+                       addresses: [202.120.224.26] # 复旦通用DNS
+   ```
+  修改完成后：
+  ```shell               
+      sudo netplan apply
+   ```
 
+- 子节点网络设置
   ```shell
   cd /etc/netplan
-  # 接下来查看.yaml文件名，并修改该文件
+  ```
+  接下来查看.yaml文件名，并修改该文件
+  ```shell
   sudo vim 01-network-manager-all.yaml
   # Let NetworkManager manage all devices on this system
   network:
@@ -55,8 +59,8 @@ sudo netplan apply
               gateway4: 192.168.1.1 # 此处为n0主节点的静态ip地址，并且注意没有方括号
               nameservers:
                       addresses: [202.120.224.26] # 复旦通用DNS
-                         
-                      
-  # 修改完成后：               
+  ```                  
+  修改完成后：
+  ```shell               
   sudo netplan apply
   ```

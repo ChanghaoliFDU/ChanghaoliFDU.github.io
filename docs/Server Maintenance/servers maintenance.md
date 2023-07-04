@@ -77,6 +77,7 @@ The main body is `\u@\h:\w\$` where `\u` means `username`, `\h` means `hostname`
 `[\d \t]` stands for *day* and *time*. 
 
 Color setting: `\[\033[XXm\]` and XX is the code for the chosen color.
+
 |  Color |  Code  |  Color | Code |
 | ---- | ---- | ---- | ---- |
 |  Default  |  00 |  Yellow    |  33  |

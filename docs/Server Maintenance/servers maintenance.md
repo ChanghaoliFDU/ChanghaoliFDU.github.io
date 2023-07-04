@@ -66,23 +66,22 @@ And source the `.bashrc` file.
 source ~/.bashrc 
 ```
  - Change the color scheme of the terminal 
-
  Add the following sentence to `.bashrc` file.
  ```shell
   PS1='${debian_chroot:+($debian_chroot)}[\d \t]\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ '
  ```
-where `${debian_chroot:+($debian_chroot)}` is meaningless.
+ where `${debian_chroot:+($debian_chroot)}` is meaningless.
 
-The main body is `\u@\h:\w\$` where `\u` means `username`, `\h` means `hostname` and `\w` means the `working directory`.
-`[\d \t]` stands for *day* and *time*. 
+ The main body is `\u@\h:\w\$` where `\u` means `username`, `\h` means `hostname` and `\w` means the `working directory`.
+ `[\d \t]` stands for *day* and *time*. 
 
-Color setting: `\[\033[XXm\]` and XX is the code for the chosen color.
+ Color setting: `\[\033[XXm\]` and XX is the code for the chosen color.
 
-|  Color |  Code  |  Color | Code |
-| ---- | ---- | ---- | ---- |
-|  Default  |  00 |  Yellow    |  33  |
-|   Black   |  30 |   Blue    |   34 |
-|   Red   |  31  |   Purple   |  35  |
-|   Green   | 32 |   Cyan   |  36  |
+ |  Color |  Code  |  Color | Code |
+ | ---- | ---- | ---- | ---- |
+ |  Default  |  00 |  Yellow    |  33  |
+ |   Black   |  30 |   Blue    |   34 |
+ |   Red   |  31  |   Purple   |  35  |
+ |   Green   | 32 |   Cyan   |  36  |
 
 

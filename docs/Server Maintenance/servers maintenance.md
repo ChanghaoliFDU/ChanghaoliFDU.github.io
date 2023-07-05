@@ -24,7 +24,7 @@ This is a guide mostly based on Ubuntu20.0.
 ## 1. Create Users
 
 This is only a tutorial for <font color=MediumVioletRed>one server</font>. 
-The guide for adding users in a computer group is [here]().
+The guide for adding users in a computer group is [here](/ServerGroup.md).
  
 ### Normal Users
 

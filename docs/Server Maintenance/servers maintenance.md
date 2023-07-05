@@ -6,7 +6,7 @@ has_children: true
 nav_order: 4
 ---
 
-# Maintenance of Servers in Reserach Group
+# Maintenance of Servers in Research Group
 {: .no_toc }
 This is a guide mostly based on Ubuntu20.0.
 

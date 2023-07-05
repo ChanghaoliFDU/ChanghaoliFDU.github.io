@@ -159,7 +159,7 @@ ypwhich # 安装成功后，该命令会输出domain name, 即这里的yanggroup
 
 ##  4. 计算机群使用
 
-### NIS 账户管理
+### NIS账户管理
 
 - 在`n0`主节点添加账户
 	```shell

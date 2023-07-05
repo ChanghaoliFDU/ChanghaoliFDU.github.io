@@ -91,4 +91,11 @@ source ~/.bashrc
  |   Red   |  31  |   Purple   |  35  |
  |   Green   | 32 |   Cyan   |  36  |
 
+## 3. Change Hostname of A Server
+
+```shell
+sudo vi /etc/hostname # Change a new hostname
+sudo vi /etc/hosts
+127.0.1.1 newhostname # If only the hostname in /etc/hostname is changed, there would be a warning.
+```
 

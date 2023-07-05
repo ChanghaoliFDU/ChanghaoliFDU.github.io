@@ -6,7 +6,7 @@ nav_order: 2
 ---
 
 
-# 计算机群
+# 搭建计算机群
 {: .no_toc }
 <details open markdown="block">
   <summary>

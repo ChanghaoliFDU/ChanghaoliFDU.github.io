@@ -19,6 +19,8 @@ nav_order: 2
 
 ## 0. 目的：
 
+---
+
 `n0`:  储存/管理用户名/用户文件。
 
 `n1-nx`:  计算节点，共享`n0`主节点的软件、用户、文件。
@@ -36,6 +38,8 @@ nav_order: 2
    ```
 
 ## 2. 安装 NFS 服务
+
+---
 
 NFS(Network File System, 网络文件服务)是一种分布式文件系统协议， 允许客户端主机像访问本地存储一样访问服务器文件
 
@@ -94,6 +98,8 @@ NFS(Network File System, 网络文件服务)是一种分布式文件系统协议
 
 ## 3. 安装 NIS
 
+---
+
 NIS(Network Information Services, 又称Sun Yellow Pages)管理计算机群的账号和密码。
 
 ### 在`n0`主节点设置 NIS 服务器
@@ -151,7 +157,9 @@ ypwhich # 安装成功后，该命令会输出domain name, 即这里的yanggroup
 # 重新登录
 ```
 
-## 4. NIS 账户管理
+##  4. 计算机群使用
+
+### NIS 账户管理
 
 - 在`n0`主节点添加账户
 	```shell
@@ -166,8 +174,6 @@ ypwhich # 安装成功后，该命令会输出domain name, 即这里的yanggroup
 	```shell
 		sudo userdel -r XXXXX
 	```
-
-##  5. 计算机群使用
 
 ### 免密码登陆
 

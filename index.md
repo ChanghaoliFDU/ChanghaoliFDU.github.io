@@ -15,7 +15,7 @@ permalink: /
 
 - Life Physics, Life-Related Reaction-Diffusion Equations,
 
-- Soft Matter Physics
+- Soft Matter Physics, Active Matter Physics
 
 ## Education 
 $$
@@ -34,6 +34,8 @@ $$
 
 - **2013.9-2017.6** B.E.,    Polymer Materials and Engineering,  Fudan University
 -->
+
+## [My Curriculum Vitae](/docs/MyCV.pdf)
 
 ## Contact Information
 

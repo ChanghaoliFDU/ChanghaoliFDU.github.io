@@ -9,7 +9,7 @@ permalink: /
 
 ---
 
-## Research Interest <img align="right" src="/Figures/My Photo.JPG" width="200" height="250" />
+## Research Interest <img align="right" src="/Figures/My Photo.JPG" width="125" height="156" />
 
 - Nonequilibrium Thermodynamics, Statistical Physics,
 

@@ -17,10 +17,12 @@ permalink: /
 
 - Soft Matter Physics, Active Matter Physics
 
-## Education 
+## Education & Positions 
 $$
 \begin{array}
 {cll}
+  &&&\\
+  \textbf{2024.10-}.   & \text{Postdoc}  &  \text{Institute of Theoretical Physics Chinese Academy of Science} &\\
   &&&\\
 	\textbf{2017.9-2023.6} & \text{Ph.D.}	& \text{Polymer Chemistry and Physics} & \text{Fudan University} \\
   &&&\\

@@ -19,7 +19,7 @@ permalink: /
 
 ## Education & Positions 
 
-$$
+\(
 \begin{array}
 {cll}
   &&&\\
@@ -30,7 +30,7 @@ $$
 	\textbf{2013.9-2017.6} & \text{B.E.} &  \text{Polymer Materials and Engineering} &  \text{Fudan University} \\
   &&&\\
 \end{array}
-$$
+\)
 
 <!--
 - **2017.9-2023.6** Ph.D.,   Polymer Chemistry and Physics,      Fudan University 

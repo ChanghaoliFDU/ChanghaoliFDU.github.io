@@ -18,7 +18,7 @@ permalink: /
 - Soft Matter Physics, Active Matter Physics
 
 ## Education & Positions 
-
+  
 $$
 \begin{array}
 {l l l}

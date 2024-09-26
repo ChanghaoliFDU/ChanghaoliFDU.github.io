@@ -22,7 +22,7 @@ permalink: /
 $$
 \begin{array}
 {l l l}
-  \textbf{2024.10-}.   & \text{Postdoc.}  &  \multicolumn{2}{l}{\text{Institute of Theoretical Physics Chinese Academy of Science}} \\\\
+  \textbf{2024.10-}.   & \text{Postdoc.}  &  {\text{Institute of Theoretical Physics Chinese Academy of Science}} \\\\
 \end{array}
 $$
 $$

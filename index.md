@@ -22,12 +22,7 @@ permalink: /
 $$
 \begin{array}
 {lll}
-  \textbf{2024.10-}.   & \text{Postdoc.}  &  \text{Institute of Theoretical Physics Chinese Academy of Science} &\\
-\end{array}
-$$
-$$
-\begin{array}
-{lll}
+  \textbf{2024.10-}.   & \text{Postdoc.}  &  \multicolumn{2}{c}{\text{Institute of Theoretical Physics Chinese Academy of Science}} \\\\
 	\textbf{2017.9-2023.6} & \text{Ph.D.}	& \text{Polymer Chemistry and Physics} & \text{Fudan University} \\\\
 	\textbf{2013.9-2017.6} & \text{B.E.} &  \text{Polymer Materials and Engineering} &  \text{Fudan University} \\\\
 \end{array}

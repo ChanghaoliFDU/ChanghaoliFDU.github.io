@@ -53,7 +53,7 @@ $$
   
 - <b>E-mail</b>:
 
-  changhao.peter.li@hotmail.com
+  changhao.li@zju.edu.cn
 
   changhao.li.cn@gmail.com
   

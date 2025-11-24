@@ -22,7 +22,9 @@ permalink: /
 $$
 \begin{array}
 {l l l}
-  \textbf{2024.10-}.   & \text{Postdoc.}  &  {\text{University  of Chinese Academy of Science}} \\\\
+  \textbf{2025.7-}	& \text{Postdoc.} 	& {\text{Zhejiang University}}\\\\
+  	& 	& {\text{Joint Research Centre on Medicine, Xiangshan Hospital of Wenzhou Medical University}}\\\\
+  \textbf{2024.9-}   & \text{Visiting Scholar}  &  {\text{Wenzhou Insititute, University  of Chinese Academy of Science}} \\\\
 \end{array}
 $$
 $$
